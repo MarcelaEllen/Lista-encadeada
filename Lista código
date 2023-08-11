@@ -9,6 +9,6 @@ pessoa2.filho = pessoa3;
 
 const listaEncadeada = [pessoa1, pessoa2, pessoa3];
 
-console.log("Pessoa: ", listaEncadeada[0].nome, "Idade: ", listaEncadeada[0].idade, "Filho: ", listaEncadeada[0].filho.nome);
-console.log("Pessoa: ", listaEncadeada[1].nome, "Idade: ", listaEncadeada[1].idade, "Filho: ", listaEncadeada[1].filho.nome);
-console.log("Pessoa: ", listaEncadeada[2].nome, "Idade: ", listaEncadeada[2].idade);
+console.log("Pessoa: ",listaEncadeada[0].nome, "Idade: ",listaEncadeada[0].idade, "Filho: ",listaEncadeada[0].filho.nome);
+console.log("Pessoa: ",listaEncadeada[1].nome, "Idade: ",listaEncadeada[1].idade, "Filho: ",listaEncadeada[1].filho.nome);
+console.log("Pessoa: ",listaEncadeada[2].nome, "Idade: ",listaEncadeada[2].idade);
